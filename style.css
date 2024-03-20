@@ -11,6 +11,8 @@ body{
     width: 100%;
     height: 100%;
 }
-.cabecalho{
-    
+.cabecalho {
+text-align: center;
+border-style: groove;
+border-color: black;
 }
